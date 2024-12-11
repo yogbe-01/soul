@@ -3,8 +3,8 @@ import requests
 import base64
 
 
-TOKEN = "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"
-REPO = "yogvps2/soul"
+TOKEN = "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"
+REPO = "yogbe-01/soul"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
 
